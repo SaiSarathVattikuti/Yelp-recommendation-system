@@ -1,4 +1,5 @@
-# 256Individualproject-Yelp Recommendation system     Name: Sai Sarath Vattikuti      
+# 256Individualproject-Yelp Recommendation system   
+# Name: Sai Sarath Vattikuti      SJSU ID: 013821483
 
 # Abstract:
 The model built in this project will recommend restaurants to the users based upon the current ratings of the user.Unlike the similarity based recommendation, this model in this project recommends unique restaurants to the users which are worth exploring.The data for this model is scraped from the yelp website using python scripting.The data collected is cleaned and preprocessed and then the model is applied to the preprocessed data for recommending surprisingly new restaurants which user may like 
