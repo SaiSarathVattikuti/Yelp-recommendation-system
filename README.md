@@ -34,3 +34,8 @@ Frequency is called as log of the number of documents present divided to the doc
 The data which is webscraped is uploaded in the Data folder
 The code for webscraping is also uploaded i a different file
 The code for the model I have built is also uploaded in a different file 
+
+[DATASET](https://github.com/SaiSarathVattikuti/project/blob/master/yelp_academic_dataset_business.json.zip)<br>
+[SCRAPING CODE](https://github.com/SaiSarathVattikuti/project/blob/master/webscraper.py)<br>
+[SOURCE CODE](https://github.com/SaiSarathVattikuti/project/blob/master/project_code.py)<br>
+[REPORT](https://github.com/SaiSarathVattikuti/project/blob/master/Yelp%20Recommendation%20System.pdf)
