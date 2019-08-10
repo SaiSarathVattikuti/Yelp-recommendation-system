@@ -37,5 +37,5 @@ The code for the model I have built is also uploaded in a different file <br>
 
 [DATASET](https://github.com/SaiSarathVattikuti/project/blob/master/yelp_academic_dataset_business.json.zip)<br>
 [SCRAPING CODE](https://github.com/SaiSarathVattikuti/project/blob/master/webscraper.py)<br>
-[SOURCE CODE](https://github.com/SaiSarathVattikuti/project/blob/master/project_code.py)<br>
+[SOURCE CODE](https://github.com/SaiSarathVattikuti/project/blob/master/__notebook_source__.ipynb)<br>
 [REPORT](https://github.com/SaiSarathVattikuti/project/blob/master/Yelp%20Recommendation%20System.pdf)
